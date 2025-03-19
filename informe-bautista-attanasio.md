@@ -1,0 +1,50 @@
+# INFORME DE PERFIL DE APRENDIZAJE
+**Estudiante:** Bautista Attanasio  
+**Curso:** 4to E  
+**Fecha:** 17 de marzo de 2025
+
+## I. INTRODUCCIÓN Y SÍNTESIS DEL PERFIL
+
+Bautista presenta un perfil de aprendizaje caracterizado por una marcada preferencia por la instrucción auditiva estructurada, con alta receptividad a explicaciones detalladas proporcionadas por figuras de autoridad. Su procesamiento de información es predominantemente holístico, abordando los problemas en su conjunto en lugar de descomponerlos en elementos más pequeños, y muestra una clara inclinación hacia lo concreto y aplicado, buscando constantemente conexiones con situaciones familiares y ejemplos específicos. Esta orientación práctica se complementa con su capacidad para aplicar conocimientos a situaciones nuevas, aunque generalmente requiere guía para establecer estas conexiones.
+
+Su enfoque hacia el aprendizaje está fuertemente motivado por factores externos, particularmente las expectativas familiares y el rendimiento académico, con un estilo de estudio mayormente reactivo que se intensifica ante evaluaciones cercanas. Mientras demuestra una planificación adaptativa con objetivos específicos y ajustes según su progreso, su autorregulación muestra áreas de oportunidad, especialmente en el análisis metacognitivo de errores y la búsqueda proactiva de estrategias alternativas cuando enfrenta dificultades. En este sentido, su tendencia a buscar ayuda inmediata refleja tanto su reconocimiento de la necesidad de apoyo como cierta dependencia de figuras externas para superar obstáculos.
+
+El potencial de Bautista radica particularmente en su disposición para el trabajo colaborativo, su responsabilidad hacia los productos finales, y sus habilidades selectivas en el ámbito experimental. Con el apoyo adecuado para desarrollar mayor autonomía y profundidad analítica, así como estrategias de autorregulación más robustas, podrá aprovechar su interés en los fenómenos naturales y en la aplicación de conocimientos para alcanzar no solo el rendimiento académico que valora, sino también una comprensión más profunda y duradera de los conceptos científicos, incluyendo su área de interés específico en las Leyes de Newton.
+
+## II. ANÁLISIS POR DIMENSIONES
+
+### Dimensión 1: Perfil Cognitivo
+
+Bautista muestra un estilo de aprendizaje predominantemente auditivo, con una marcada preferencia por escuchar explicaciones detalladas (5/5) como su principal vía para comprender nuevos conceptos científicos. Esta predilección contrasta significativamente con su baja afinidad por discutir con otros y hacer preguntas (1/5), realizar experimentos (2/5) o leer textos explicativos (3/5), sugiriendo una recepción pasiva más que una construcción activa del conocimiento.
+
+Al abordar problemas científicos, Bautista exhibe cierta flexibilidad cognitiva, utilizando "con frecuencia" tanto enfoques deductivos (partiendo de principios teóricos) como inductivos (partiendo de ejemplos concretos). Sin embargo, "casi nunca" emplea estrategias de visualización mediante esquemas o diagramas ni divide problemas en partes más pequeñas, lo que indica una tendencia a procesar la información de manera holística más que analítica. Su estrategia cognitiva más consistente es buscar patrones o conexiones con problemas similares previamente conocidos, la cual utiliza "siempre", revelando una fuerte dependencia de la experiencia previa y la analogía como herramientas de comprensión.
+
+En términos de abstracción, Bautista expresa una clara preferencia por trabajar con hechos concretos y ejemplos específicos, lo que, combinado con su habilidad para aplicar conocimientos a situaciones nuevas (indicada como su actividad mental más natural), sugiere un enfoque pragmático orientado a la aplicación más que a la comprensión teórica profunda. Esta orientación se confirma con su desacuerdo respecto a "buscar entender el por qué detrás del concepto" cuando enfrenta conceptos difíciles, prefiriendo en cambio explicaciones paso a paso y múltiples ejemplos de aplicación.
+
+### Dimensión 2: Autorregulación
+
+El perfil de autorregulación de Bautista revela una planificación de estudio flexible y orientada a resultados. Aunque "casi nunca" establece horarios específicos para cada materia, "con frecuencia" divide el contenido en partes manejables y establece objetivos específicos para cada sesión. Destaca su capacidad para revisar y ajustar sus planes según su progreso, algo que hace "siempre", mostrando adaptabilidad en su enfoque de estudio.
+
+Frente a temas difíciles en ciencias, Bautista adopta principalmente un enfoque consultivo, buscando ayuda inmediatamente de profesores, compañeros o tutores, complementado con un aumento en el tiempo dedicado hasta dominar el tema. Esta estrategia refleja tanto su reconocimiento de necesitar apoyo como posiblemente una menor confianza en su capacidad para resolver dificultades de manera independiente. Para monitorear su aprendizaje, utiliza dos estrategias principales: resolver problemas o ejercicios adicionales para verificar su comprensión y crear resúmenes o mapas conceptuales, mostrando un monitoreo orientado tanto a la aplicación práctica como a la organización conceptual.
+
+Sin embargo, cuando obtiene resultados por debajo de sus expectativas, muestra cierta vulnerabilidad en su autorregulación: se declara "en desacuerdo" con buscar ayuda específica para superar dificultades identificadas y con ajustar su estrategia de estudio, mientras que está "de acuerdo" con desmotivarse temporalmente. Esta combinación sugiere una respuesta emocional negativa inicial ante los fracasos, con limitada capacidad para transformar esas experiencias en aprendizaje estratégico, aunque eventualmente recupera el impulso motivacional. Su tendencia a estudiar principalmente cuando hay evaluaciones cercanas, en lugar de mantener un estudio regular, refuerza esta imagen de una autorregulación reactiva más que proactiva.
+
+### Dimensión 3: Perfil Motivacional
+
+El interés científico de Bautista se orienta principalmente hacia entender cómo funcionan los fenómenos naturales y explorar el impacto de la ciencia en temas sociales o ambientales, mostrando una curiosidad tanto por los mecanismos naturales como por sus implicaciones prácticas. Este interés dual se refleja también en sus expectativas a largo plazo, donde combina la aspiración de lograr una "comprensión profunda del mundo natural" con el objetivo más pragmático de "cumplir con los requisitos académicos".
+
+Su motivación para aprender ciencias aumenta significativamente en contextos colaborativos (está "totalmente de acuerdo" con que el trabajo con compañeros incrementa su motivación) y cuando las actividades son variadas y dinámicas. En contraste, se muestra "neutral" ante factores como la relación con metas futuras, los desafíos intelectuales o la oportunidad de ser creativo, sugiriendo que estos elementos tienen menos impacto en su impulso para aprender.
+
+En cuanto a factores externos, las expectativas familiares ejercen una influencia predominante (5/5) sobre su motivación, seguidas por las oportunidades futuras educativas o profesionales (4/5), mientras que la influencia de compañeros y el ambiente escolar es mínima (1/5). Esta fuerte dependencia de las expectativas familiares, combinada con su orientación hacia "metas de rendimiento" (obtener buenas calificaciones) más que de dominio o comprensión, sugiere una motivación predominantemente extrínseca, centrada en resultados visibles más que en el aprendizaje por sí mismo, como lo confirma su expectativa explícita de "obtener resultados académicos positivos" para este año escolar.
+
+### Dimensión 4: Habilidades Prácticas y Experimentales
+
+El perfil de habilidades experimentales de Bautista presenta un patrón interesante de fortalezas y limitaciones. Muestra confianza "alta" en formular hipótesis comprobables, utilizar instrumentos de medición con precisión y analizar e interpretar resultados experimentales, lo que sugiere buenas capacidades conceptuales y técnicas en ciertos aspectos clave del proceso científico. Sin embargo, su confianza disminuye a "moderada" para seguir protocolos experimentales paso a paso y registrar datos sistemáticamente, y cae a "baja" para identificar variables y reconocer fuentes de error, revelando áreas específicas que requieren desarrollo, particularmente en aspectos relacionados con el control y rigor experimental.
+
+A pesar de su baja preferencia reportada por actividades prácticas en su estilo de aprendizaje, Bautista indica haber realizado una variedad de actividades científicas fuera del ámbito escolar, incluyendo experimentos caseros, proyectos de robótica o electrónica, construcción de modelos o dispositivos científicos, y otras actividades prácticas relacionadas con ciencias. Esta aparente contradicción sugiere que, aunque no sea su modalidad preferida de aprendizaje formal, sí existe un interés por la aplicación práctica en contextos más libres o autodirigidos.
+
+En cuanto a la conexión teoría-práctica, reconoce que puede establecer estos vínculos con ayuda y orientación, pero no de manera completamente autónoma. Su abordaje de problemas prácticos en el laboratorio muestra una tendencia a la consulta (de recursos disponibles) y colaboración (con compañeros) más que a la autonomía y evaluación sistemática, ya que solo "a veces" intenta resolver problemas por su cuenta antes de pedir ayuda, y "casi nunca" aplica conocimientos de experiencias anteriores o evalúa sistemáticamente diferentes soluciones posibles.
+
+### Dimensión 5: Entorno de Aprendizaje
+
+Bautista cuenta con un entorno de estudio que combina recursos materiales adecuados con ciertos desafíos logísticos. Dispone de espacio tranquilo, computadora personal, acceso a internet y apoyo de tutores particulares, lo que constituye una base material sólida para su aprendizaje. Sin embargo, identifica como principales desafíos las distracciones en su
